@@ -1,0 +1,6 @@
+model_checkpoint_path: "lenet5_model"
+all_model_checkpoint_paths: "lenet5_model-38000"
+all_model_checkpoint_paths: "lenet5_model-38500"
+all_model_checkpoint_paths: "lenet5_model-39000"
+all_model_checkpoint_paths: "lenet5_model-39500"
+all_model_checkpoint_paths: "lenet5_model"
